@@ -1,0 +1,1 @@
+FROM mcr.micrisoft.com/dotnet/sdk:7.0 AS build
